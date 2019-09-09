@@ -1,7 +1,7 @@
-CTF-Katana
+CTF
 ===============
 
-> John Hammond | February 1st, 2018
+> This is me | Sep 15th, 2019
 
 --------------------------
 
